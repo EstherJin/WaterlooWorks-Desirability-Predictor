@@ -1,0 +1,5 @@
+beautifulsoup4==4.5.3
+pick==0.6.1
+progressbar2==3.12.0
+selenium==3.141.0
+

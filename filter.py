@@ -12,7 +12,7 @@ with open('output.csv', 'r') as f:
 	csv = [s.split(',') for s in f.read().split('\n')]
 
 #Read in the blacklist, remove all duplicates, then save it back to the same file.
-with open('blacklist', 'r+') as f:
+with open('blacklist.txt', 'r+') as f:
 	blacklist = set(f.read().split('\n'))
 	f.seek(0)	
 	f.write('\n'.join(blacklist))

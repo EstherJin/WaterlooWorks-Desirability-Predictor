@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-
-
 from bs4 import BeautifulSoup
 import getpass
 import re
@@ -15,6 +13,8 @@ def main():
     # Get user login information
     username = input("Username: ")
     password = getpass.getpass("Password: ")
+    headless = input("Headless? (Y/N): ").rstrip().lstrip()
+    yes = ["Yes", "Y", "YES", "y", "yes"]
 
     # monk user input
     # username = ''
@@ -26,15 +26,24 @@ def main():
     output_name = 'output.csv'
 
     # start selenium in chromium 
-    chrome_options = webdriver.chrome.options.Options()  
-    chrome_options.add_argument("--headless") 
+    chrome_options = webdriver.chrome.options.Options()
+    if (headless in yes):
+        print("Headless")
+        chrome_options.add_argument("--headless") 
+
 
     #Uncomment next bit to make it headless
-    browser = webdriver.Chrome(executable_path="./chromedriver")#, chrome_options=chrome_options)
+    browser = webdriver.Chrome(executable_path="./chromedriver", chrome_options=chrome_options)
 
     main_page_html = login(username, password, login_url, dashboard_url, browser)
+
     # get quick search options from main page content
     quick_search_options = get_quick_search_options(main_page_html)
+
+    # If the options list is empty, either the login did not work or there are no available jobs to scrape
+    if (not quick_search_options):
+        print("ERROR: login unsuccessful (NO JOBS FOUND)")
+        return 10
 
     choice = prompt_quick_search(quick_search_options)
 
@@ -42,7 +51,7 @@ def main():
     # choice = 'For My Program'
     
 
-    # peek the first page of the quick search page, get the token and page count
+    # peek the first page of the quick search page, get the token and page count and save all data to the output
     data = get_job_lists(choice, browser, output_name)
 
     print("Done!")
@@ -70,7 +79,7 @@ def get_quick_search_options(main_page_html):
         print("Getting options...")
 
         # Only get the options that has jobs, exclude those that have 0 job.
-        #pattern = r'<td class="full"><a href=".+?:\\\'(.+?)\\\'.+?">(.+?)<\/a><\/td>'     # THIS PATTERN IS WRONG
+        # pattern = r'<td class="full"><a href=".+?:\\\'(.+?)\\\'.+?">(.+?)<\/a><\/td>'     # THIS PATTERN IS WRONG
         pattern = r'<td class="full"><a href=".+?:.+?" onclick=(.+?)>(.+?)<\/a><\/td>'
         
         results = re.findall(pattern, main_page_html)
@@ -106,12 +115,26 @@ def get_job_lists(choice, browser, output_name):
     # bar = progressbar.ProgressBar(max_value=self.job_lists_page_count)
     # bar.update(self.gather_current_progress)
 
+
+    # dots for loading screen
+    dots = ""
+
     # Scrape the tables and save it to output_name as a CSV
+
     with open(output_name, 'w') as f:
         while (next_page_buttons):
-            print("Next Page")
+            
+            # loading screen stuff
+            os.system.clear()
+            print("Working" + dots)
+            # update dots
+            if (dots == "..."):
+                dots = ""
+            else:
+                dots += "."
 
-            time.sleep(1)
+            # wait for JavaScript to load then download the page info
+            time.sleep(2)
             soup = BeautifulSoup(page_html, "html.parser")
 
             for tr in soup.find_all('tr')[2:]:
