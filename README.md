@@ -19,6 +19,8 @@ in your  terminal
 
 ## Use / Installation
 
+### scrape.py
+
 First, clone or download this repository, then navigate to the local repository and run 
 
 ```python3 scrape.py```
@@ -34,6 +36,8 @@ You will be prompted for your WaterlooWorks Login, and then asked if you want to
 Select what category you want to scrape in the Terminal (eg: "For my program", "Applied to", etc.)
 
 Once the script has finished, it will save the list of jobs to output.csv.
+
+### filter.py
 
 To filter your results based on 'blacklist.txt', run 
 
