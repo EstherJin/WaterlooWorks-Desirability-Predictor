@@ -1,5 +1,7 @@
 # Waterloo-Works-Scraping
  
+**WARNING: NO LONGER WORKS**: Script does not handle uWaterloo's new 2FA system.
+
 Series of scripts to scrape job listings from WaterlooWorks into a CSV then filter based on companies
 
 scrape.py is the main script, using Selenium to scrape WaterlooWorks data in to a CSV. 
@@ -14,9 +16,7 @@ filter.py can then be used to filter results from scrape.py based on a blacklist
 - Pick
 - ChromeDriver
 
-To install all dependencies , simply run 
-```pip install -r requirements.txt```
-in your  terminal
+To install all python dependencies, run  `pip install -r requirements.txt` in your terminal.
 
 Download chromedriver from here: https://chromedriver.chromium.org. put it in the same directory as the `scrape.py` script.
 
@@ -26,15 +26,7 @@ On MacOS, you can alternatively use `brew install chromedriver`
 
 ### scrape.py
 
-First, clone or download this repository, then navigate to the local repository and run 
-
-```python3 scrape.py```
-
-from a bash terminal.
-
-If on windows you can probably do it from the python IDLE without issue.
-
-Make sure that chromedriver is in the same folder as your script when you run it, as it is required for selenium to run. 
+Run scrape.py using `python3 scrape.py`
 
 You will be prompted for your WaterlooWorks Login, and then asked if you want to run in headless mode. Note, if you run with the chromium browser showing, you may need to navigate back to the terminal window in order to select a couple options.
 
@@ -46,10 +38,6 @@ Once the script has finished, it will save the list of jobs to output.csv.
 
 ### filter.py
 
-To filter your results based on 'blacklist.txt', run 
-
-```python3 filter.py```
-
-in your bash terminal. Again, on windows running from Python IDLE should be fine.
+To filter your results based on 'blacklist.txt', run `python3 filter.py`. `blacklist.txt` should specify any companies you do not want to see the postings of
 
 
