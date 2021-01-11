@@ -12,10 +12,15 @@ filter.py can then be used to filter results from scrape.py based on a blacklist
 - Selenium
 - Progressbar
 - Pick
+- ChromeDriver
 
 To install all dependencies , simply run 
 ```pip install -r requirements.txt```
 in your  terminal
+
+Download chromedriver from here: https://chromedriver.chromium.org. put it in the same directory as the `scrape.py` script.
+
+On MacOS, you can alternatively use `brew install chromedriver`
 
 ## Use / Installation
 
@@ -32,6 +37,8 @@ If on windows you can probably do it from the python IDLE without issue.
 Make sure that chromedriver is in the same folder as your script when you run it, as it is required for selenium to run. 
 
 You will be prompted for your WaterlooWorks Login, and then asked if you want to run in headless mode. Note, if you run with the chromium browser showing, you may need to navigate back to the terminal window in order to select a couple options.
+
+On Mac, the first time you run the script you will get an error saying the `ChromeDriver cannot be opened as the developer cannot be verified`. Close the prompt, then go to `Settings -> Security & Privacy` and select `Open Anyways`. Rerun the script.
 
 Select what category you want to scrape in the Terminal (eg: "For my program", "Applied to", etc.)
 

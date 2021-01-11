@@ -31,9 +31,10 @@ def main():
         print("Headless")
         chrome_options.add_argument("--headless") 
 
-
-    #Uncomment next bit to make it headless
-    browser = webdriver.Chrome(executable_path="./chromedriver", chrome_options=chrome_options)
+    if os.path.exists("./chromedriver"):
+        browser = webdriver.Chrome(executable_path="./chromedriver", chrome_options=chrome_options)
+    else:
+        browser = webdriver.Chrome(chrome_options=chrome_options)
 
     main_page_html = login(username, password, login_url, dashboard_url, browser)
 
