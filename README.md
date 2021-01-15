@@ -1,10 +1,8 @@
 # Waterloo-Works-Scraping
- 
-**WARNING: NO LONGER WORKS**: Script does not handle uWaterloo's new 2FA system.
 
 Series of scripts to scrape job listings from WaterlooWorks into a CSV then filter based on companies
 
-scrape.py is the main script, using Selenium to scrape WaterlooWorks data in to a CSV. 
+scrape.py is the main script, using Selenium to scrape WaterlooWorks data in to a CSV.
 
 filter.py can then be used to filter results from scrape.py based on a blacklist stored in the plain-text file 'blacklist.txt'. You can edit that file as you wish. The script will also remove any duplicates from 'blacklist.txt'
 
@@ -28,7 +26,7 @@ On MacOS, you can alternatively use `brew install chromedriver`
 
 Run scrape.py using `python3 scrape.py`
 
-You will be prompted for your WaterlooWorks Login, and then asked if you want to run in headless mode. Note, if you run with the chromium browser showing, you may need to navigate back to the terminal window in order to select a couple options.
+The browser will open up to the Waterloo WaterlooWorks site. Log in and navigate to "Hire Waterloo Coop". Once you're done, input any character
 
 On Mac, the first time you run the script you will get an error saying the `ChromeDriver cannot be opened as the developer cannot be verified`. Close the prompt, then go to `Settings -> Security & Privacy` and select `Open Anyways`. Rerun the script.
 
@@ -39,5 +37,3 @@ Once the script has finished, it will save the list of jobs to output.csv.
 ### filter.py
 
 To filter your results based on 'blacklist.txt', run `python3 filter.py`. `blacklist.txt` should specify any companies you do not want to see the postings of
-
-
