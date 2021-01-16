@@ -1,6 +1,7 @@
 
 #Ignore generated CSVs
 
+*.log
 *.csv
 *.xlsx
 .ipynb_checkpoints
