@@ -1,0 +1,550 @@
+<html xmlns:o='urn:schemas-microsoft-com:office:office' xmlns:x='urn:schemas-microsoft-com:office:excel' xmlns='http://www.w3.org/TR/REC-html40'><head><!--[if gte mso 9]><xml><x:ExcelWorkbook><x:ExcelWorksheets><x:ExcelWorksheet><x:Name>{worksheet}</x:Name><x:WorksheetOptions><x:DisplayGridlines/></x:WorksheetOptions></x:ExcelWorksheet></x:ExcelWorksheets></x:ExcelWorkbook></xml><![endif]--></head><body><table><tr><td>ID</td><td>Job Title</td><td>Organization</td><td>Division</td><td>Openings</td><td>Internal Status</td><td>City</td><td>Level</td><td>Applications</td><td>App Deadline</td><td></td></tr><tr><td>188759</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Python/Django Programmer</td><td>4GL Solutions</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Stouffville</td><td>Intermediate</td><td>14</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187777</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Science</td><td>Achievers Inc</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>59</td><td>Jan 19, 2021</td><td></td></tr><tr><td>183894</td><td>Engineering Co-op</td><td>ActiveState Software Inc</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Vancouver</td><td>Intermediate, Senior</td><td>11</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188750</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Developer</td><td>AdHawk Microsystems</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Senior</td><td>24</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187277</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Computer Vision Intern (Startup)</td><td>Akasha Imaging</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Remote in Canada</td><td>Intermediate, Senior</td><td>106</td><td>Jan 19, 2021</td><td></td></tr><tr><td>182773</td><td>Software Development Engineering - Summer 2021 (Canada)</td><td>Amazon.com Inc</td><td>Head Office</td><td>1</td><td>Open for Applications</td><td></td><td>Intermediate, Senior</td><td>312</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186284</td><td>Data Engineering</td><td>ApplyBoard</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Intermediate, Senior</td><td>23</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186829</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Developer - Data</td><td>Arctic Wolf Networks Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Waterloo</td><td>Junior, Intermediate, Senior</td><td>54</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186740</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Backend Engineering (Startup)</td><td>Atolio Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Remote in Canada</td><td>Intermediate, Senior</td><td>109</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185914</td><td>Software Engineering</td><td>Autonomic</td><td>Head Office</td><td>5</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>55</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187165</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Science Analyst</td><td>Baseline Capital</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188061</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Developer</td><td>Bell & Howell</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Waterloo</td><td>Junior, Intermediate, Senior</td><td>48</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185790</td><td>Machine Learning Developer Student - 4 Month Summer Term</td><td>BlackBerry</td><td>Head Office</td><td>4</td><td>Open for Applications</td><td>Waterloo</td><td>Junior, Intermediate, Senior</td><td>85</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185833</td><td>Machine Learning Engineering Student - 4 Month Summer Term</td><td>BlackBerry</td><td>Head Office</td><td>1</td><td>Open for Applications</td><td>Ottawa</td><td>Junior, Intermediate, Senior</td><td>38</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186082</td><td>Data Scientist Student - 4 Month Summer Term</td><td>BlackBerry</td><td>Head Office</td><td>1</td><td>Open for Applications</td><td>Waterloo</td><td>Junior, Intermediate, Senior</td><td>80</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185258</td><td>Software Engineering</td><td>Bloomberg</td><td>New York</td><td>10</td><td>Open for Applications</td><td>Remote in Canada</td><td>Junior, Intermediate, Senior</td><td>451</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187430</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Developer</td><td>Boosted.ai</td><td>Head Office</td><td>2</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>92</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185956</td><td>Data Analytics Associate</td><td>Caffe Demetre Franchising Corp</td><td>Head Office</td><td>1</td><td>Open for Applications</td><td>Vaughan</td><td>Intermediate, Senior</td><td>4</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188008</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Sports Analyst, Student - Summer 2021 - Canadian Tire Corporation</td><td>Canadian Tire Corporation Limited</td><td>Corporate Office</td><td>3</td><td>Open for Applications</td><td></td><td>Junior, Intermediate</td><td>49</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186832</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist</td><td>Capital One</td><td>Toronto Office</td><td>2</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate</td><td>148</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186842</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Analyst</td><td>Capital One</td><td>Toronto Office</td><td>2</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate</td><td>109</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186845</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Engineering (KW Lab)</td><td>Capital One</td><td>Toronto Office</td><td>2</td><td>Open for Applications</td><td>Kitchener</td><td>Intermediate, Senior</td><td>113</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187358</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Engineering</td><td>Carta Maple Technologies Inc.</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Intermediate, Senior</td><td>33</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186291</td><td>Data Science</td><td>Clearbanc</td><td>Divisional Office</td><td>3</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186739</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Partner Enablement</td><td>Clearbanc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>2</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186742</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Quantitative Behavioural Finance Researcher & Data Scientist</td><td>Cognizantly Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>35</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188238</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Deep Learning Developer</td><td>DarwinAI Corporation</td><td>Divisional Office</td><td>3</td><td>Open for Applications</td><td>Waterloo</td><td>Intermediate, Senior</td><td>73</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188240</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Machine Learning Test Automation Developer</td><td>DarwinAI Corporation</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Waterloo</td><td>Junior, Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185893</td><td>Software Product Engineering</td><td>data.world</td><td>Corporate Head Office</td><td>2</td><td>Open for Applications</td><td>Remote in Canada</td><td>Intermediate, Senior</td><td>102</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187967</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Developer / Data Engineering</td><td>Dataraction Inc</td><td>Divisional Office</td><td>3</td><td>Open for Applications</td><td>Markham</td><td>Intermediate, Senior</td><td>5</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184411</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist, DTTL Global Technology Services</td><td>Deloitte</td><td>Tax and Audit</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>54</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184438</td><td>Omnia AI: Data Architect/Engineering</td><td>Deloitte</td><td>Tax and Audit</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184164</td><td>Data Scientist</td><td>Department of National Defence</td><td>ADM (Data, Innovation and Analytics)</td><td>3</td><td>Open for Applications</td><td>Ottawa</td><td>Junior, Intermediate</td><td>108</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186499</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist - Intern</td><td>Dogico Information Inc.</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Senior</td><td>11</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184992</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Backend Developer</td><td>ecobee</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>73</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188260</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Science</td><td>ecobee</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>72</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186212</td><td>Machine Learning Engineering</td><td>Electronic Arts Ltd</td><td>Burnaby</td><td>1</td><td>Open for Applications</td><td>Burnaby</td><td>Intermediate, Senior</td><td>55</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186213</td><td>Machine Learning Engineering - BioWare Edmonton</td><td>Electronic Arts Ltd</td><td>Burnaby</td><td>1</td><td>Open for Applications</td><td>Burnaby</td><td>Intermediate, Senior</td><td>35</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186655</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Analyst Co-op - FIFA (8 Months)</td><td>Electronic Arts Ltd</td><td>Burnaby</td><td>1</td><td>Open for Applications</td><td>Burnaby</td><td>Senior</td><td>20</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186108</td><td>Data Scientist / Machine Learning Engineering (IoT Data Analytics)</td><td>Enlighted Inc</td><td>Waterloo</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Intermediate, Senior</td><td>56</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188155</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Junior Environmental Data Scientist</td><td>Environment and Climate Change Canada</td><td>Meteorological Research Division</td><td>1</td><td>Open for Applications</td><td>Burlington</td><td>Intermediate, Senior</td><td>11</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186088</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Wi-Fi Software Testing</td><td>Ford Motor Company of Canada Limited</td><td>Product Development</td><td>2</td><td>Open for Applications</td><td>Oakville</td><td>Junior, Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186999</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Engineering</td><td>Foxquilt Insurance</td><td>Head Office</td><td>3</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>4</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185636</td><td>Machine Learning Developer</td><td>Geminare</td><td>Divisional Office</td><td>4</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>67</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185257</td><td>AI/ML/NLP Data Scientist</td><td>Genellipse Inc</td><td>Divisional Office</td><td>4</td><td>Open for Applications</td><td>Mississauga</td><td>Intermediate, Senior</td><td>36</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184224</td><td>Database Administration</td><td>Geotab Inc</td><td>Oakville</td><td>1</td><td>Open for Applications</td><td>Oakville</td><td>Junior, Intermediate, Senior</td><td>10</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186793</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist Intern</td><td>GoldSpot Discoveries Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior</td><td>49</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185255</td><td>Data Scientist</td><td>Gore Mutual Insurance Company</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Cambridge</td><td>Junior, Intermediate, Senior</td><td>75</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186534</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Engineering</td><td>Gore Mutual Insurance Company</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Cambridge</td><td>Junior</td><td>22</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186312</td><td>Python Developer</td><td>GTS</td><td>New York</td><td>1</td><td>Open for Applications</td><td>Remote in Canada</td><td>Intermediate, Senior</td><td>137</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187524</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Science Co-op</td><td>Hatch Ltd</td><td>Global Corporate Office</td><td>1</td><td>Open for Applications</td><td>Mississauga</td><td>Junior</td><td>65</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186587</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Machine Learning Research Engineering</td><td>Huawei Technologies Company Limited</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Markham</td><td>Junior, Intermediate, Senior</td><td>18</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186628</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										AI Engineering</td><td>Huawei Technologies Company Limited</td><td>Divisional Office</td><td>5</td><td>Open for Applications</td><td>Markham</td><td>Junior, Intermediate, Senior</td><td>22</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185340</td><td>Machine Learning Developer - Calgary</td><td>IBM Canada Limited</td><td>Head Office (Canada)</td><td>1</td><td>Open for Applications</td><td>Calgary</td><td>Junior, Intermediate, Senior</td><td>43</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185446</td><td>Data Scientist - Mississauga</td><td>IBM Canada Limited</td><td>Head Office (Canada)</td><td>1</td><td>Open for Applications</td><td>Mississauga</td><td>Junior, Intermediate, Senior</td><td>55</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185457</td><td>Machine Learning Engineering - Toronto/Montreal</td><td>IBM Canada Limited</td><td>Head Office (Canada)</td><td>1</td><td>Open for Applications</td><td></td><td>Junior, Intermediate, Senior</td><td>56</td><td>Jan 19, 2021</td><td></td></tr><tr><td>183772</td><td>Data Software Engineering</td><td>Index Exchange Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>33</td><td>Jan 19, 2021</td><td></td></tr><tr><td>183773</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Software Engineering</td><td>Index Exchange Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Junior, Intermediate, Senior</td><td>22</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186443</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										DATA SCIENTIST CO-OP TERM</td><td>Innovation Science and Economic Development Canada</td><td>Canadian Intellectual Property Office</td><td>1</td><td>Open for Applications</td><td>Gatineau</td><td>Intermediate, Senior</td><td>37</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187359</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist Co-op//Intern</td><td>Intact Financial Corporation</td><td>Divisional Office</td><td>5</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>43</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188319</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Analyst/BiData Engineering/Developer</td><td>Investment Industry Regulatory Organization IIROC</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>12</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184278</td><td>Software Engineering</td><td>Jamlabs Data Science Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Mississauga</td><td>Intermediate, Senior</td><td>12</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187785</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Junior Data Engineering / Analyst / Scientist</td><td>Jane.com</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Remote in Canada</td><td>Intermediate, Senior</td><td>34</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187460</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Machine Learning Operations (MLOps) Specialist</td><td>Kelvin Zero</td><td>Development and Technology</td><td>1</td><td>Open for Applications</td><td>Ottawa</td><td>Junior, Intermediate, Senior</td><td>13</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185737</td><td>Co-Op or Intern Developer, Machine Learning</td><td>Kinaxis</td><td>Ottawa Office</td><td>2</td><td>Open for Applications</td><td>Ottawa</td><td>Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188567</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Analyst</td><td>Kinaxis</td><td>Ottawa Office</td><td>3</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>56</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186663</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Engineering, Consultant - Lighthouse Exponential</td><td>KPMG LLP Canada</td><td>Digital & Technology</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>37</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188411</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Junior Data Scientist</td><td>Lixar IT Inc</td><td>Ottawa Office</td><td>1</td><td>Open for Applications</td><td>Ottawa</td><td>Senior</td><td>28</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186911</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Business Intelligence Developer</td><td>Loblaw Companies Limited</td><td>Corporate</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>18</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186979</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Applied Machine Learning Co-op</td><td>Loblaw Companies Limited</td><td>Corporate</td><td>1</td><td>Open for Applications</td><td>BRAMPTON</td><td>Intermediate, Senior</td><td>69</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188463</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Business Intelligence Developer Coop</td><td>Loblaw Companies Limited</td><td>Corporate</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>5</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188435</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Science Coop</td><td>Loblaw Companies Limited</td><td>Corporate</td><td>2</td><td>Open for Applications</td><td>Toronto</td><td>Senior</td><td>13</td><td>Jan 19, 2021</td><td></td></tr><tr><td>183861</td><td>Machine Learning/AI Co-op</td><td>Lone Wolf Real Estate Technologies</td><td>Divisional Office</td><td>4</td><td>Open for Applications</td><td>Cambridge</td><td>Senior</td><td>8</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187512</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										0420331 TOR - Data Science</td><td>Manulife Financial</td><td>Campus Program</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>54</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188554</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										0420739 TOR/WAT - Advanced Analytics Data Engineering</td><td>Manulife Financial</td><td>Campus Program</td><td>1</td><td>Open for Applications</td><td></td><td>Junior, Intermediate, Senior</td><td>5</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186942</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										NLP / Data Scientist at Startup</td><td>Motive Software</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Remote in Canada</td><td>Senior</td><td>39</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186957</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Engineering</td><td>Motive Software</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Remote in Canada</td><td>Senior</td><td>60</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185151</td><td>Software Engineering</td><td>myKaarma</td><td>MyKaarma Canada Corp</td><td>2</td><td>Open for Applications</td><td>Kitchener</td><td>Junior, Intermediate, Senior</td><td>13</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185700</td><td>Artificial Intelligence - Data and Software Engineering Expert</td><td>National Bank of Canada</td><td>National Bank Financial</td><td>1</td><td>Open for Applications</td><td>Montreal</td><td>Intermediate, Senior</td><td>49</td><td>Jan 19, 2021</td><td></td></tr><tr><td>183032</td><td>Data Science Software Developer</td><td>NuraLogix Corporation</td><td>Head Office</td><td>2</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>44</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187149</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist</td><td>OANDA (Canada) Corporation ULC</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>44</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188269</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Engineering</td><td>OANDA (Canada) Corporation ULC</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>14</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185640</td><td>Data Scientist</td><td>OMERS</td><td>Toronto Office</td><td>1</td><td>Expired - Apps Available</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>82</td><td>Jan 13, 2021</td><td></td></tr><tr><td>187849</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist</td><td>Omnium LLC</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Remote in Canada</td><td>Intermediate, Senior</td><td>68</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188376</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Engineering</td><td>OPSEU Pension Trust</td><td>Toronto</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate</td><td>15</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186220</td><td>Data Science</td><td>Overbond</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Intermediate, Senior</td><td>17</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186996</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Machine Learning Engineering</td><td>PerkinElmer Inc</td><td>Software Innovation Lab</td><td>3</td><td>Open for Applications</td><td>Kitchener</td><td>Junior, Intermediate, Senior</td><td>59</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185146</td><td>Machine Learning Engineering</td><td>Personifi AI Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Intermediate, Senior</td><td>31</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186245</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Science Engineering Co-Op</td><td>Plenty of Fish Media ULC</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Vancouver</td><td>Junior, Intermediate, Senior</td><td>33</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186657</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Engineering</td><td>Plenty of Fish Media ULC</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Vancouver</td><td>Intermediate, Senior</td><td>13</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187129</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										SQL Server Database Administrator</td><td>PointClickCare</td><td>Head Office</td><td>1</td><td>Open for Applications</td><td>Mississauga</td><td>Junior, Intermediate, Senior</td><td>12</td><td>Jan 19, 2021</td><td></td></tr><tr><td>188443</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Software Engineering</td><td>PointClickCare</td><td>Head Office</td><td>1</td><td>Open for Applications</td><td>Waterloo</td><td>Junior, Intermediate, Senior</td><td>27</td><td>Jan 19, 2021</td><td></td></tr><tr><td>187467</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Scientist Intern</td><td>Purolator Inc</td><td>Corporate</td><td>2</td><td>Open for Applications</td><td>Mississauga</td><td>Intermediate, Senior</td><td>41</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186020</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										Data Engineering Software Developer</td><td>Raven Telemetry</td><td>Ottawa Office</td><td>1</td><td>Open for Applications</td><td>Ottawa</td><td>Junior, Intermediate, Senior</td><td>41</td><td>Jan 19, 2021</td><td></td></tr><tr><td>182950</td><td>Data Scientist</td><td>RBC Financial Group</td><td>Technology & Operations</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>61</td><td>Jan 19, 2021</td><td></td></tr><tr><td>182970</td><td>Data Scientist</td><td>RBC Financial Group</td><td>Technology & Operations</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>20</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185212</td><td>Machine Learning Software Engineering</td><td>RBC Financial Group</td><td>Technology & Operations</td><td>1</td><td>Open for Applications</td><td>Toronto</td><td>Junior, Intermediate, Senior</td><td>56</td><td>Jan 19, 2021</td><td></td></tr><tr><td>185627</td><td>Back End Software Engineering</td><td>reebee Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Kitchener</td><td>Intermediate, Senior</td><td>28</td><td>Jan 19, 2021</td><td></td></tr><tr><td>184391</td><td>Data Science Analyst</td><td>Royal Canin Canada Company</td><td>Divisional Office</td><td>2</td><td>Open for Applications</td><td>Puslinch</td><td>Junior, Intermediate, Senior</td><td>26</td><td>Jan 19, 2021</td><td></td></tr><tr><td>186645</td><td>NEW
+									
+								
+								
+								
+								
+								
+									
+									
+										SAP iXp Intern - Database Researcher and Developer</td><td>SAP Canada Inc</td><td>Divisional Office</td><td>1</td><td>Open for Applications</td><td>Waterloo</td><td>Intermediate, Senior</td><td>13</td><td>Jan 19, 2021</td><td></td></tr></table></body></html>
